@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aleksandar Petrov</h1>
+<h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">Cloud & DevOps enthusiast from Sofia, Bulgaria</h3>
 
 ---
