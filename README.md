@@ -8,7 +8,7 @@
 - 🎓 Computer Science student with passion for automation, cloud technologies and scalable systems
 - 📫 Reach me at **mr.alexpetrov66@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/aleksandar-petrov-83321b302/**
-- ⚡ Fun fact: **I love learning multiple things at the same time 😁**
+- ⚡ Fun fact: **I love learning multiple things at the same time**
 
 ---
 
